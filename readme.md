@@ -24,9 +24,10 @@ Para ejecutar el script, simplemente clona el repositorio y ejecuta el notebook 
 ```
 git clone https://github.com/EnigmaK9/xts
 cd xts
+```
+
 jupyter notebook
 Abre el archivo xts.ipynb y ejecuta las celdas para ver los resultados del análisis.
-```
 
 ## Contribuciones
 Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, por favor abre un 'issue' o envía un 'pull request'.
