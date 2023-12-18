@@ -16,9 +16,10 @@ Para ejecutar este script, necesitarás Python y algunas bibliotecas específica
 
 ```
 pip install pandas matplotlib seaborn statsmodels
-Uso
-Para ejecutar el script, simplemente clona el repositorio y ejecuta el notebook xts.ipynb en un entorno que soporte Jupyter Notebooks, como Jupyter Lab o Google Colab.
 ```
+
+## Uso
+Para ejecutar el script, simplemente clona el repositorio y ejecuta el notebook xts.ipynb en un entorno que soporte Jupyter Notebooks, como Jupyter Lab o Google Colab.
 
 ```
 git clone https://github.com/EnigmaK9/xts
